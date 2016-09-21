@@ -65,7 +65,7 @@ class Base58(object) :
             return _format.upper() + str(self)
         elif _format.lower() == "test" :
             return _format.upper() + str(self)
-        elif _format.lower() == "stm" :
+        elif _format.lower() == "gls" :
             return _format.upper() + str(self)
         elif _format.lower() == "gph" :
             return _format.upper() + str(self)

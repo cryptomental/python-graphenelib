@@ -1635,7 +1635,7 @@ class GrapheneExchange(GrapheneClient) :
         """ Fund the fee pool of an asset with BTS
 
             :param float amount: Amount to transfer
-            :param str symbol: Asset to transfer ("SBD" or "STEEM")
+            :param str symbol: Asset to transfer ("GBG" or "GOLOS")
             :param str recepient: Recepient of the transfer
             :param str memo: (Optional) Memo attached to the transfer
 
